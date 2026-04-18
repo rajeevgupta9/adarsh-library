@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://adarshlibrary.in/sitemap.xml
+Sitemap: https://adarsh-library-ten.vercel.app/
 
 # Allow all major search engine bots
 User-agent: Googlebot
